@@ -14,6 +14,7 @@ namespace ejercicio3
             double grados;
             double radianes;
             double resultado;
+            // cambios para probar
             Console.WriteLine("ingresar el valor en grados");
             grados= double.Parse(Console.ReadLine());
 
