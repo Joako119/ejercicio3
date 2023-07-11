@@ -11,11 +11,11 @@ namespace ejercicio3
     {
         static void Main(string[] args)
         {
-            Double grados;
-            Double radianes;
-            Double resultado;
+            double grados;
+            double radianes;
+            double resultado;
             Console.WriteLine("ingresar el valor en grados");
-            grados= Double.Parse(Console.ReadLine());
+            grados= double.Parse(Console.ReadLine());
 
             if (grados > 0)
             {
